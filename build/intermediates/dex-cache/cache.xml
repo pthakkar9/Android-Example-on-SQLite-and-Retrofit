@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\dev\coursera\android 5\assignments\assignment 1\submission 1\app\libs\retrofit-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cc6807da6fdf91bea1b6a4a90c3818dac27d335f">
+        <dex dex="C:\dev\coursera\android 5\assignments\assignment 1\submission 1\app\build\intermediates\pre-dexed\debug\retrofit-1.7.0-919685e2ae3898fb43143a59cc083c947b69b5b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\parva.SwetaLaptop\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\parva.SwetaLaptop\AndroidStudioProjects\assignment1\app\build\intermediates\pre-dexed\debug\gson-2.2.4-8670575923d1ed1461cb00f80159884b3b784a41.jar" />
+    </item>
+    <item
+        jar="C:\Users\parva.SwetaLaptop\AndroidStudioProjects\assignment1\app\libs\retrofit-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cc6807da6fdf91bea1b6a4a90c3818dac27d335f">
+        <dex dex="C:\Users\parva.SwetaLaptop\AndroidStudioProjects\assignment1\app\build\intermediates\pre-dexed\debug\retrofit-1.7.0-9b41ff6256558a9fcdebf9251881df36d58d3249.jar" />
+    </item>
+
+</items>
